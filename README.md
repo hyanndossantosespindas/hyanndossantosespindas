@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sou aluno do curso de Engenharia de Software na FIAP, busco me profissionalizar na programação e conquistar meu primeiro estagio.<br>Com esse perfil, tenho como objetivo, mostrar minha trajetória, meus projetos e registrar minha evolução como programador.</h3>
+<h3 align="left">Sou um Engenheiro de Software atualmente matriculado no curso de Engenharia de Software na FIAP, busco me profissionalizar na programação. <br>Com esse perfil, tenho como objetivo, mostrar minha trajetória, meus projetos e registrar minha evolução como programador.</h3>
 
 ###
 
