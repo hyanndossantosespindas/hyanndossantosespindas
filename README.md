@@ -54,15 +54,6 @@ Busco estágio para contribuir com projetos de impacto e continuar crescendo com
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hyanndossantosespindas&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyanndossantosespindas&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>Sempre aprendendo. Sempre construindo.</i>
 </p>
